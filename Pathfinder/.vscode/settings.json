@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "error.h": "c",
+        "pathfinder.h": "c",
+        "errors.h": "c",
+        "typeinfo": "c"
+    }
+}
